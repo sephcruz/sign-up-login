@@ -1,0 +1,25 @@
+body{
+
+	background-repeat: no-repeat;
+	background-image: 100% 120%;
+}
+.nav {
+    list-style: none;
+	padding: 1%;
+	overflow: hidden;
+	width: auto;
+}
+
+.all{
+	color: black;
+	font-family: Helvetica; 
+}
+
+.field1{
+	margin-top: 7%;
+}
+
+.field2{
+	margin-top: 3%;	
+}
+
